@@ -10,7 +10,7 @@ const  donetlen_pont_span = document.getElementById("dontetlen_pont")
 const eredmeny_jelzo_div = document.querySelector(".eredmeny_jelzo")
 
 const eredmeny_p = document.querySelector(".eredmeny > p")
-const összes_kör = document.querySelector(".körök > p")
+const összes_kör = document.getElementById("körök_száma")
 
 const rock_div = document.getElementById("kő")
 const paper_div = document.getElementById("papír")
