@@ -96,14 +96,16 @@ header > h1
 .körök
 {
     text-align: center;
-}
-
-#körök_száma {
-    text-align: center;
     color: black;
     font-family: 'Ojuju', sans-serif;
     font-size: 40px;
     font-weight: bold;
+
+
+}
+
+#körök_száma {
+    text-align: center;
     display: inline-block;
 }
 
